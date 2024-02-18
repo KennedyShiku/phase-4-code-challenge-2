@@ -12,6 +12,7 @@ werkzeug = "*"
 flask-cors = "*"
 importlib-metadata = "*"
 importlib-resources = "*"
+sqlalchemy-serializer = "*"
 
 [dev-packages]
 
